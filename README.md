@@ -13,3 +13,7 @@ USAGE:
   
  EXAMPLE: python3 jsProject.py -s jsProject
  
+ 
+ INCLUDED IN REP:
+  Binary module for ease of use.
+  NOTE: Install the binary in a folder defines by your computers $PATH. This will allow direct calls to the script from terminal using, 'mkjsproject'
